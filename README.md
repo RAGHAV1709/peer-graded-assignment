@@ -1,12 +1,4 @@
 
-#The Unix Workbench | Peer-graded Assignment: Bash, Make, Git, and GitHub | guessinggame.sh
-- Author: RAGHAV1709 <raghavanand8@gmail.com>
-- Date:   Sat Oct 27 19:26:43 2018 +0530
-
--    added makefile
-
-- commit 401bec9b5795e0f451f1bdb9787eca01b54027bd
-- Author: RAGHAV1709 <raghavanand8@gmail.com>
-- Date:   Sat Oct 27 19:21:03 2018 +0530
-
--    added guessinggame.sh
+## The Unix Workbench | Peer-graded Assignment: Bash, Make, Git, and GitHub | guessinggame.sh
+- This makefile was run at  Date:   Sat Oct 27 19:26:43 2018 +0530
+-There were 29 lines in guessinggame.sh
